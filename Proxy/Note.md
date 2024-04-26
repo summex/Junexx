@@ -2,5 +2,5 @@
 https://github.com/521xueweihan/GitHub520
 
 科学上网翻Q大全: https://github.com/bannedbook/fanqiang<br>
-Windows系统推荐: https://github.com/2dust/v2rayN<br>
-安卓手机推荐 Shadowrocket: https://github.com/Pawdroid/shadowrocket_for_android
+Windows系统推荐V2rayN: https://github.com/2dust/v2rayN<br>
+安卓手机推荐Shadowrocket: https://github.com/Pawdroid/shadowrocket_for_android
