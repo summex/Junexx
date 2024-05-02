@@ -268,6 +268,8 @@ CGTN•阿拉伯语,http://livear.cgtn.com/1000a/prog_index.m3u8
 宁夏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225632/index.m3u8
 
 港.澳.台,#genre#
+凤凰资讯,http://183.204.13.237/cee7354084e908e7d71a99f88ecd0c61.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
+凤凰资讯,http://183.204.13.237/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰资讯,http://183.204.13.237/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰资讯,http://110.72.75.162:8181/tsfile/live/1064_1.m3u8
 凤凰资讯,http://113.64.145.126:8081/hls/36/index.m3u8
