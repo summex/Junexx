@@ -8,9 +8,15 @@ Windows系统推荐V2rayN: https://github.com/2dust/v2rayN<br>
 <h4>订阅地址：</h4>
 ● MFUU<br>
 项目地址：https://github.com/mfuu/v2ray，每8个小时自动更新<br>
-订阅地址：https://raw.githubusercontent.com/mfuu/v2ray/master/v2ray<br>
+订阅地址：https://github.moeyy.xyz/raw.githubusercontent.com/mfuu/v2ray/master/v2ray<br>
 
 <h2>002 修改HOSTS</h2>
 <h3>2-1 访问Github</h3>
 Github抽风，可以通过修改 Hosts 解决。下面这个仓库及时提供可以访问 Github 的 DNS：
 https://github.com/521xueweihan/GitHub520
+
+通过网站代理，代理网站：
+https://github.moeyy.xyz/
+https://mirror.ghproxy.com/
+https://gh-proxy.com/
+https://ghproxy.net/
