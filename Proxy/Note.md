@@ -7,8 +7,11 @@ Windows系统推荐V2rayN: https://github.com/2dust/v2rayN<br>
 安卓手机推荐Shadowrocket: https://github.com/Pawdroid/shadowrocket_for_android<br>
 <h4>订阅地址：</h4>
 ● MFUU<br>
-项目地址：https://github.com/mfuu/v2ray , 每8个小时自动更新<br>
-订阅地址：https://github.moeyy.xyz/raw.githubusercontent.com/mfuu/v2ray/master/v2ray<br>
+项目地址：https://github.com/mfuu/v2ray/ , 每8个小时自动更新<br>
+订阅地址：https://github.moeyy.xyz/raw.githubusercontent.com/mfuu/v2ray/master/v2ray<br><br>
+● Ermaozi<br>
+项目地址：https://github.com/ermaozi/get_subscribe/ , 每12小时持续更新<br>
+订阅地址：https://github.moeyy.xyz/raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/v2ray.txt<br><br>
 
 <h2>002 修改HOSTS</h2>
 <h3>2-1 访问Github</h3>
