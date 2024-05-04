@@ -13,8 +13,7 @@ Windows系统推荐V2rayN: https://github.com/2dust/v2rayN<br>
 <h2>002 修改HOSTS</h2>
 <h3>2-1 访问Github</h3>
 Github抽风，可以通过修改 Hosts 解决。下面这个仓库及时提供可以访问 Github 的 DNS：
-https://github.com/521xueweihan/GitHub520
-
+https://github.com/521xueweihan/GitHub520<br><br>
 通过网站代理，代理网站：
 https://github.moeyy.xyz/
 https://mirror.ghproxy.com/
