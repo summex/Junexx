@@ -1,4 +1,6 @@
-<center>解决上网问</center>
+
+
+<h1 align="center">解决上网问</h1>
 ==========================
 ## `001` 科学上网</h2>
 科学上网翻Q大全: https://github.com/bannedbook/fanqiang<br>
