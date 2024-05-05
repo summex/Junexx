@@ -7,7 +7,7 @@
 Windows 系统推荐 V2rayN: https://github.com/2dust/v2rayN<br><br>
 安卓手机/系統推荐 Shadowrocket: https://github.com/Pawdroid/shadowrocket_for_android<br>
 <h3>订阅地址：</h3>
-● MFUU  *每8个小时自动更新*<br>
+● MFUU(https://github.com/mfuu/v2ray/) 每8个小时自动更新<br>
 网址：https://github.com/mfuu/v2ray/<br>
 订阅：https://github.moeyy.xyz/raw.githubusercontent.com/mfuu/v2ray/master/v2ray<br><br>
 ● Ermaozi，每12小时持续更新<br>
